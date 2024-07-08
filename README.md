@@ -9,7 +9,7 @@
 <body>
   <nav>
     <ul>
-      <li><a href="#"> Logo </a></li>
+      <li><a href="#" class="Logotipo"> Logo </a></li>
     </ul>
   </nav>
 </body> ‎<This message was edited>
@@ -25,5 +25,11 @@
                 <li><a href="#">Acerca de</a></li>
                 <li><a href="#">Contacto</a></li>
             </div>
+       <div>
+                <li><a href="#">Registrarse</a></li>
+                <li><a href="#">Iniciar sesión</a></li>
+            </div>
         </ul>
     </nav>
+</body>
+</html>
