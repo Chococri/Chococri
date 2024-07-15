@@ -13,11 +13,11 @@
         </ul>
         <ul>
             <div>
-               <li><a href="#">Portafolio</a></li>
-               <li><a href="#">Productos</a></li>
-               <li><a href="#">Envíos</a></li>
-               <li><a href="#">Acerca de</a></li>
-               <li><a href="#">Contacto</a></li>
+        <li><a href="secciones/Portafolio.html"> Portafolio </a></li>
+        <li><a href="secciones/Productos.html"> Productos </a></li>
+        <li><a href="secciones/Envíos.html"> Envíos </a></li>
+        <li><a href="secciones/Acerca_de.html"> Acerca de </a></li>
+        <li><a href="secciones/Contacto.html"> Contacto </a></li>
             </div>
             <div>
                 <li><a href="#">Registrarse</a></li>
