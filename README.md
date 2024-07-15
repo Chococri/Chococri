@@ -27,3 +27,11 @@
     </nav>
 </body>
 </html>
+
+nav ul div li .login {
+    background: #f006b6;
+    border-radius: 16px;
+    color: #ffffff;
+    display: flex;
+    padding: 16px 48px;
+}
