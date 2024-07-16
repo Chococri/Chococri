@@ -20,18 +20,10 @@
         <li><a href="secciones/Contacto.html"> Contacto </a></li>
             </div>
             <div>
-                <li><a href="#">Registrarse</a></li>
-                <li><a href="#" class="login">Iniciar sesión</a></li>
+                <li><a href=""secciones/registrarse.html"">Registrarse</a></li>
+                <li><a href=""secciones/iniciar sesion.html"" class="login">Iniciar sesión</a></li>
             </div>
         </ul>
     </nav>
 </body>
 </html>
-
-nav ul div li .login {
-    background: #f006b6;
-    border-radius: 16px;
-    color: #ffffff;
-    display: flex;
-    padding: 16px 48px;
-}
